@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eduhops
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE.JS, SQL.
-- 💞️ I’m looking to collaborate on LupaData
 - 📫 How to reach me: Email - eduardopereirabsb339@gmail.com or (61) 983185343
 
 <!---
